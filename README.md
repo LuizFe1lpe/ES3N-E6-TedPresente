@@ -6,4 +6,4 @@ Andreson Correia de Souza
 Elcio
 Lucas Pedro de Freitas
 Luiz Felipe de Macedo Santos
-Regiane
+<br> Regiane Corrêa de Lara </br>
