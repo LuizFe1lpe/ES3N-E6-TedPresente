@@ -2,8 +2,8 @@
 Protótipo evolutivo de Engenharia de Software 3 
 
 Autores:
-Andreson Correia de Souza
+<br>Andreson Correia de Souza
 Elcio
 Lucas Pedro de Freitas
 Luiz Felipe de Macedo Santos
-Regiane Corrêa de Lara 
+Regiane Corrêa de Lara </br>
