@@ -1,2 +1,4 @@
 [2023-04-29T22:02:06.989Z][FAILED QUERY]: SELECT `Cliente`.`id` AS `Cliente_id`, `Cliente`.`nome` AS `Cliente_nome`, `Cliente`.`documento` AS `Cliente_documento`, `Cliente`.`telefone` AS `Cliente_telefone`, `Cliente`.`email` AS `Cliente_email`, `Cliente`.`created_at` AS `Cliente_created_at`, `Cliente`.`updated_at` AS `Cliente_updated_at` FROM `cliente` `Cliente`
 [2023-04-29T22:02:06.989Z][QUERY ERROR]: Error: Table 'ted_presente.cliente' doesn't exist
+[2023-04-29T22:38:33.181Z][FAILED QUERY]: SELECT `Cliente`.`id` AS `Cliente_id`, `Cliente`.`nome` AS `Cliente_nome`, `Cliente`.`documento` AS `Cliente_documento`, `Cliente`.`telefone` AS `Cliente_telefone`, `Cliente`.`email` AS `Cliente_email`, `Cliente`.`created_at` AS `Cliente_created_at`, `Cliente`.`updated_at` AS `Cliente_updated_at` FROM `cliente` `Cliente`
+[2023-04-29T22:38:33.181Z][QUERY ERROR]: Error: Table 'ted_presente.cliente' doesn't exist
