@@ -1,9 +1,9 @@
 {
-  "name": "api-te-presente",
+  "name": "api-ted-presente",
   "version": "1.0.0",
   "description": "vendas",
   "main": "index.js",
-  "author": "Anderson Correia dde Souza",
+  "author": "Anderson Correia de Souza",
   "license": "MIT",
   "private": false,
   "dependencies": {
@@ -14,7 +14,12 @@
     "dotenv": "^16.0.2",
     "express-async-errors": "^3.1.1",
     "http-status-codes": "^2.2.0",
-    "uuid": "^8.3.2"
+    "mysql2": "^2.2.5",
+    "typeorm": "^0.2.31",
+    "typescript": "^4.9.5",
+    "tsyringe": "^4.4.0",
+    "uuid": "^8.3.2",
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.17",

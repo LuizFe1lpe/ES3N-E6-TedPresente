@@ -1,12 +1,13 @@
 import cors from 'cors';
-import dotenv from 'dotenv';
 import express, { Express } from 'express';
 import 'express-async-errors';
-import { router } from './index.routes'
+import createConnection from "./typeorm";
+import { router } from './routes/index.routes'
 
-dotenv.config();
 const port = process.env.PORT;
 const app: Express = express();
+
+createConnection();
 
 app.use(
   cors({
@@ -16,8 +17,8 @@ app.use(
   })
 );
 app.use(express.json({ limit: '200mb' }), router);
-app.listen(port, () => {
-  console.log('Server running! Port:', port);
+app.listen(process.env.PORT, () => {  
+  console.log('Server running! Port:', process.env.PORT);
 });
 
 export { app };
