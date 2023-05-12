@@ -1,5 +1,3 @@
-# Follow the progress - FTP
-
 ### Configurações Iniciais
 
 - Crie um arquivo .env na raiz do projeto.
@@ -65,18 +63,3 @@
 
 ---
 
-### Contato
-
-- Website: https://www.epiousion.com.br/
-- Telefone: (15) 99100-6559
-
-<img src="./src/assets/epiousion.svg"  width="300" height="100">
-
----
-
-### Equipe de Epiousers
-
-- Lucas Viscaino (Vasco)
-- Gianluca Bianchi (Xian)
-- Eric Dellai Camargo (Daily)
-- Caique Rosa (Overcome)
